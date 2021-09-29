@@ -1,0 +1,593 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    width: 100%;
+    height: 830px;
+    background-color: #f7e7ec;
+
+
+}
+
+.first-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-list {
+    padding: 0px 30px 0px 30px;
+    list-style-type: none;
+    padding-top: 8px;
+}
+
+.links {
+    text-decoration: none;
+    color: #6d6b6b;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+
+}
+
+.btn {
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    margin-left: 100px;
+}
+
+.active {
+    color: #c5275c;
+}
+
+.site-icon {
+    padding-right: 200px;
+}
+
+.small-part-second-heading {
+    font-size: 14px;
+    padding-top: 190px;
+    padding-left: 170px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.big-part-second-heading {
+    font-size: 57px;
+    font-family: 'Fredoka One', cursive;
+    padding-left: 170px;
+
+}
+
+.text-part-second-heading {
+    width: 523px;
+    height: 78px;
+    padding-left: 170px;
+    font-family: 'Hind Madurai', sans-serif;
+    padding-top: 20px;
+    color: rgb(99, 94, 94);
+    line-height: 26px;
+}
+
+.ice-cream {
+    color: #c5275c;
+}
+
+.btn2 {
+    margin-left: 170px;
+    margin-top: 40px;
+}
+
+.second-heading {
+    display: flex;
+}
+
+.second-list-heading {
+    list-style-type: none;
+}
+
+.circle,
+.basic-pic,
+.last-pic-milk {
+    position: absolute;
+}
+
+.circle {
+
+    margin-top: 330px;
+    margin-left: 100px;
+
+
+}
+
+.basic-pic {
+    top: 120px;
+    right: 130px;
+}
+
+.last-pic-milk {
+    top: 290px;
+    right: 30px;
+}
+
+.main-1 {
+    width: 100%;
+    height: 400px;
+}
+
+.first-card {
+    width: 250px;
+    height: 200px;
+    border: 1px solid rgb(252, 248, 248);
+    list-style: none;
+    border-radius: 5px;
+}
+
+.activee {
+    width: 250px;
+    height: 200px;
+    list-style: none;
+    border-radius: 5px;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
+    border-radius: 7px;
+}
+
+.father-main-card {
+    display: flex;
+    margin-left: 120px;
+    padding-top: 100px;
+    justify-content: space-around;
+
+
+}
+
+.car {
+    width: 51px;
+    height: 43px;
+    padding-left: 100px;
+    padding-top: 30px;
+
+}
+
+.main-1-title {
+    font-size: 20px;
+    font-family: 'Hind Madurai', sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.main-text {
+    font-size: 14px;
+    font-family: 'Hind Madurai', sans-serif;
+    color: #6e6868;
+    text-align: center;
+    line-height: 19px;
+    padding-top: 10px;
+}
+
+.wrapper {
+    width: 100%;
+    height: 544px;
+    background: #F8EDF0;
+}
+
+.title-part-3 {
+    font-size: 44px;
+    line-height: 48px;
+    font-family: 'Hind Madurai', sans-serif;
+    padding-top: 141px;
+    padding-left: 170px;
+}
+
+.text-part-3 {
+    width: 442px;
+    height: 58px;
+    line-height: 29px;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 170px;
+    padding-bottom: 40px;
+    color: rgb(192, 187, 187);
+
+}
+
+.btn-3 {
+    margin-left: 170px;
+    margin-top: 10px;
+}
+
+.wrap-li {
+    display: flex;
+    list-style: none;
+}
+
+.third-part-basic-pic {
+    position: absolute;
+    top: 1200px;
+    left: 700px;
+}
+
+.main-product-title{
+    line-height: 61px;
+    font-family: 'Hind Madurai', sans-serif;
+    padding-top: 137px;
+    text-align: center;
+    font-size: 44px;
+
+}
+
+.product-list {
+    list-style: none;
+    padding: 25px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.name-product {
+    text-decoration: none;
+    color: rgb(126, 123, 123);
+
+}
+
+.wrapper-link-products {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.rectangle-1 {
+    width: 580px;
+    height: 410px;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+
+.left-title {
+    font-size: 26px;
+    line-height: 36px;
+    font-family: 'Hind Madurai', sans-serif;
+    padding-top: 110px;
+    padding-left: 85px;
+
+}
+
+.product-list-1{
+    display: flex;
+}
+
+.left-text {
+    width: 454px;
+    height: 67px;
+    line-height: 24px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(141, 136, 136);
+    padding-top: 12px;
+    padding-left: 85px;
+
+}
+
+.price-product {
+    font-size: 26px;
+    line-height: 36px;
+    font-family: 'Hind Madurai', sans-serif;
+    padding-left: 85px;
+    padding-top: 28px;
+
+
+}
+
+.old-price {
+    font-size: 20px;
+    line-height: 26px;
+    color: rgb(85, 84, 84);
+    text-decoration-line: line-through;
+
+}
+
+.btn-4 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 15px;
+    margin-left: 85px;
+}
+
+.right-lean {
+    text-align: right;
+}
+
+.price-end-section {
+    margin-left: 150px;
+    margin-top: 100px;
+    /* display: flex; */
+    align-items: center;
+}
+
+.pics-part {
+    display: flex;
+    align-items: center;
+}
+
+.end-h4 {
+    width: 200px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    padding-left: 10px;
+}
+
+.end-span {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    margin-top: -2px;
+}
+
+.center-p {
+    width: 322px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    padding-top: 46px;
+    padding-bottom: 46px;
+}
+
+.quot,
+.quot-2 {
+    margin: 0 5px;
+}
+
+.slide-part {
+    display: flex;
+    align-items: center;
+}
+
+.man {
+    width: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 27px;
+    margin-right: 27px;
+}
+
+.last-sis {
+    width: 35px;
+    margin-left: 27px;
+    margin-right: 27px;
+}
+
+.last-part-finish {
+    margin-left: 240px;
+}
+.left-list-11{
+    display: flex;
+    margin-top: 100px;
+}
+.btn-5 
+{
+width: 134px;
+height: 74px;
+background: #D64374;
+border-radius: 5px;
+padding: 28px 46px;
+color: #fff;
+margin-left: -138px;
+border: none;
+}
+/* =========== Product section end ========= */
+/* <!-- ======= adver sectin start ====== --> */
+.just {
+    background: #F8EDF0;
+    display: flex;
+}
+
+.just-left {
+    margin-left: 150px;
+}
+
+.just-right {
+    margin-top: 50px;
+}
+.last-left {
+   margin-left: 200px;
+   margin-top: 100px;
+  
+}
+
+.tel {
+    filter: drop-shadow(-10px 10px 5px rgba(0, 0, 0, 0.25));
+    border-radius: 22px;
+    margin-top: 40px;
+    margin-right: 130px;
+    margin-bottom: 40px;
+}
+
+.just-h2 {
+    font-size: 44px;
+    font-weight: 500;
+    font-style: normal;
+    padding-bottom: 20px;
+}
+
+.just-p {
+    width: 607px;
+    font-style: 18px;
+    letter-spacing: 0.08em;
+    padding-bottom: 30px;
+}
+
+.just-li {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    font-style: normal;
+}
+
+.common {
+    background: #fff;
+    padding: 5px 5px;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 3px;
+}
+
+.net-pics{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+/* <!-- ======= adver section end ======== --> */
+/* <!-- ======= form section start ====== --> */
+.form {
+    height: 450px;
+}
+
+.active-form {
+    margin-left: 330px;
+}
+
+.form-title3 {
+    width: 522px;
+    height: 123px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 430px;
+    margin-bottom: 36px;
+}
+
+.InBox {
+    width: 303px;
+    height: 74px;
+    background: #FFFFFF;
+    border: 1px solid #FFA3A3;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 37px;
+    padding: 25px 29px;
+}
+
+.inp-2 {
+    width: 637px;
+}
+
+
+/* <!-- ======= form section end ====== --> */
+/* ======= Footer section start */
+.footer-part {
+    height: 400px;
+    background: #0A0808;
+    color: #fff;
+    display: flex;
+}
+
+.footer-basic {
+    margin-left: 150px;
+    padding-top: 50px;
+}
+
+.footer-p {
+
+    width: 207px;
+    height: 47px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    letter-spacing: 0.01em;
+    margin-bottom: 20px;
+}
+
+.footer-img {
+    width: 20px;
+    margin-left: 10px;
+}
+.footer-h4 
+{
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+color: #FFFFFF;
+}
+.footer-img{
+    margin-left: -5px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.link-ul 
+{
+    margin-top: 80px;
+    margin-left: 120px;
+}
+.inp-4 {
+    width: 388px;
+    height: 55px;
+    border: 2px solid #D64374;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.link-li 
+{
+    line-height: 30px;
+    list-style: none;
+}
+.link-a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.ul-2
+{
+    margin-top: 90px;
+}
+.send-form 
+{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.inp-4 
+{
+    background: #000;
+width: 386px;
+height: 55px;
+border: 2px solid #D64374;
+box-sizing: border-box;
+border-radius: 5px;
+margin-bottom: 20px;
+}
+.btn-6
+{
+width: 125px;
+height: 56px;
+background: #D23166;
+border-radius: 5px;
+margin-left: -125px;
+border: none;
+}
+.send-h3 
+{
+    margin-left: 30px;
+}
+.bk
+{
+    margin-left: 28px;
+}
